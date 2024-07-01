@@ -10,14 +10,13 @@ This DIY approach offers a balance of durability, flexibility, and ease of use, 
 
 This guide provides instructions on building and using a PC fan holder for your grow tent. It covers the 3D-printed parts, wiring, and power setup.
 
-#### ❤️ 🙏 Thanks to Those That Went Before
+# ❤️ 🙏 Thanks to Those That Went Before
 **Thank you to the kind, and amazingly gifted folks that share their work.**  It is far easier for me to modify an existing design/implemenation than to forge an unchartered path.
 - The actual fan holder parts is a modification of [**Brundak's** Fan holder - desk fan on printables](https://www.printables.com/model/272507-fan-holder-desk-fan)
 - The stake is a modification of [the tent stake designed by **mistertech**](https://www.thingiverse.com/thing:2758339).
 
-### 🌱 In the Grow Tent
-The image here shows the integrated system in the grow tent. The intent is to give an overview of how everything fits together.
-TODO: NEED AN IMAGE
+# 🌱 In the Grow Tent
+
 <div align="center">
 <img src="fan_in_the_wild_1.jpg" width="33%">
 <img src="fan_in_the_wild_2.jpg" width="33%">
@@ -31,7 +30,7 @@ The image serves to visualize:
 - Marine grade wiring, with its multi-stranded, individually tinned copper conductors, provides flexibility for easier installation in tight spaces and corrosion resistance for enhanced durability in marine environments.
 
 
-## 📜BoM
+# 📜BoM
 The pieces to put together this fan system include:
 
 | Item     | Cost | Description |
@@ -42,10 +41,10 @@ The pieces to put together this fan system include:
 |[PC Fans](https://www.amazon.com/gp/product/B0CQ85P43Z/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8)   | $16   | Waterproof DC Cooling Fan Dual. |
 | 12V Power Supply | Depends | Please see the comments under the Power Supply heading. |
 
-### 🔗Cable wires and T Tap Connector
+## 🔗Cable wires and T Tap Connector
 A challenge with grow tents and electrical projects is dealing with water and dirt. If the wiring is hidden within a moving vehicle, add in vibration and the access to the cables once installed.  This DIY method may not be as robust as commercially available solutions, but is "good enough". The wiring and connections are the result of years of experimentation, balancing ease of implementation (e.g.: avoids soldering) and some protection from dirt and water (e.g.: a level of waterproofing and the closed/covered connectors).
 
-### 🔌 Power Supply
+## 🔌 Power Supply
 The fans are wired in parallel.  The following principles apply:
 - The **voltage** across each component in parallel is the same.
 - The **current** is the sum of the currents through each of the devices/loads drawing power.
@@ -54,8 +53,8 @@ The PC fans in this setup operate at 12V, drawing 0.16A each. The power supply s
 
 It's important to overspec the power supply to prevent overheating and a potential fires. For the 3-fan example, a 12V 1A power supply provides ample headroom, ensuring safe and reliable operation.
 
-## 🔩 Assembly
-### 🛠️ Tools
+# 🔩 Assembly
+## 🛠️ Tools
 - A DMM(Digital MultiMeter) is always useful when working with electronics.  It really helps with debugging the circuit.  This is the one I have used for quite awhile:
 <p align="center">
   <img src="dmm.jpg" alt="DMM" height="400" />
@@ -65,8 +64,8 @@ It's important to overspec the power supply to prevent overheating and a potenti
 
 - Access to a 3D printer to print the fan holder parts.
 
-### 👣 Assembly Steps
-#### 🖨️ 3D Printed Parts
+## 👣 Assembly Steps
+### 🖨️ 3D Printed Parts
 1. 🖨️ Print out the parts.
 
 > **Note** Each PC fan requires it's own set of 3D printed parts.
