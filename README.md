@@ -8,9 +8,17 @@ This guide provides instructions on building and using a PC fan holder for your 
 ### 🌱 In the Grow Tent
 The image here shows the integrated system in the grow tent. The intent is to give an overview of how everything fits together.
 TODO: NEED AN IMAGE
+<div align="center">
+<img src="fan_in_the_wild_1.jpg" width="33%">
+<img src="fan_in_the_wild_2.jpg" width="33%">
+<img src="connector_in_the_wild.jpg" width="33%">
+</div>
 
 The image serves to visualize:
-- the PC Fans can be placed anywhere within the soil. Once placed, the fan can tilt a bit to adjust to create targeted airflow patterns for specific areas.
+- The fans can be placed anywhere within the soil. 
+- The fan can tilt a bit to create targeted airflow patterns for specific areas.
+- The covered connectors help prevent water and dirt to short the circuit. Although of course submerging in either will short the circuit.
+- Marine grade wiring offers flexibility and corrosion resistance due to its tin plated copper strands, allowing for easier installation in tight spaces and enhanced durability in harsh marine environments - like grow tents.
 
 #### ❤️ 🙏 Thanks to Those That Went Before
 **Thank you to the kind, and amazingly gifted folks that share their work.**  It is far easier for me to modify an existing design/implemenation than to forge an unchartered path.
