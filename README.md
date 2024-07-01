@@ -1,9 +1,19 @@
 # 👋 Sub-canopy Air Movement Using PC Fans for Grow Tents
-The PC fan system combines waterproof fans, 3D-printed parts, and marine-grade wiring to create a customizable air circulation solution for under the plant canopy. Key components include a level of water proofing, marine grade wiring that uses T-tap connectors for easy assembly without soldering, swiveling fan holders to adjust the in place angle of air flow, ground-insertable posts to position close to the plant area that needs the circulation. This DIY approach balances durability, flexibility, and ease of implementation.  It has been "good enough" in smaller grow spaces like indoor grow tents.  The design is intended for these type of grow tents and not indoor commercial facilities.
+The PC fan system integrates waterproof fans, 3D-printed parts, and marine-grade wiring to provide customizable air circulation under the plant canopy in indoor grow tents. Key features include:
+- Waterproof fans
+- Marine-grade wiring with T-tap connectors for easy, solder-free assembly
+- Swiveling fan holders for adjustable airflow direction
+- Ground-insertable posts for positioning near plants
+This DIY approach offers a balance of durability, flexibility, and ease of use, making it suitable for smaller grow spaces like indoor grow tents. It is not intended for large indoor commercial facilities.
 
 > **Note** This project is a hobbyist-level DIY effort, combining electronics, software, and gardening. It's not professionally engineered or tested, and comes with no guarantees. The design builds upon and modifies work shared by other makers in the community, without whom this wouldn't be possible. It's shared to potentially inspire or assist other hobbyists, but may not be suitable for serious applications.
 
 This guide provides instructions on building and using a PC fan holder for your grow tent. It covers the 3D-printed parts, wiring, and power setup.
+
+#### ❤️ 🙏 Thanks to Those That Went Before
+**Thank you to the kind, and amazingly gifted folks that share their work.**  It is far easier for me to modify an existing design/implemenation than to forge an unchartered path.
+- The actual fan holder parts is a modification of [**Brundak's** Fan holder - desk fan on printables](https://www.printables.com/model/272507-fan-holder-desk-fan)
+- The stake is a modification of [the tent stake designed by **mistertech**](https://www.thingiverse.com/thing:2758339).
 
 ### 🌱 In the Grow Tent
 The image here shows the integrated system in the grow tent. The intent is to give an overview of how everything fits together.
@@ -18,12 +28,8 @@ The image serves to visualize:
 - The fans can be placed anywhere within the soil. 
 - The fan can tilt a bit to create targeted airflow patterns for specific areas.
 - The covered connectors help prevent water and dirt to short the circuit. Although of course submerging in either will short the circuit.
-- Marine grade wiring offers flexibility and corrosion resistance due to its tin plated copper strands, allowing for easier installation in tight spaces and enhanced durability in harsh marine environments - like grow tents.
+- Marine grade wiring, with its multi-stranded, individually tinned copper conductors, provides flexibility for easier installation in tight spaces and corrosion resistance for enhanced durability in marine environments.
 
-#### ❤️ 🙏 Thanks to Those That Went Before
-**Thank you to the kind, and amazingly gifted folks that share their work.**  It is far easier for me to modify an existing design/implemenation than to forge an unchartered path.
-- The actual fan holder parts is a modification of [**Brundak's** Fan holder - desk fan on printables](https://www.printables.com/model/272507-fan-holder-desk-fan)
-- The stake is a modification of [the tent stake designed by **mistertech**](https://www.thingiverse.com/thing:2758339).
 
 ## 📜BoM
 The pieces to put together this fan system include:
@@ -32,7 +38,7 @@ The pieces to put together this fan system include:
 |----------|----------|----------|
 |[Cable Wire](https://amzn.to/3zxIo8Z)  | $10  | 66ft 22awg 2pin Wires.   |
 |[T Tap Wire Connector](https://amzn.to/3XHGnkH)    | $10  | Solderless No Stripping 3 Way Wire Connector.   |
-|[3D Print of fan holder parts](PC Fan Holder)    | Data 5   | See the image of the 3D Printed pieces.   |
+|3D Printed Parts    | See below   | See the 3D Printed Parts section below.   |
 |[PC Fans](https://www.amazon.com/gp/product/B0CQ85P43Z/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8)   | $16   | Waterproof DC Cooling Fan Dual. |
 | 12V Power Supply | Depends | Please see the comments under the Power Supply heading. |
 
